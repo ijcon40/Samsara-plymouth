@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Samsara
+Description=A Plymouth for Samsara
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/samsara
+ScriptFile=/usr/share/plymouth/themes/samsara/samsara.script
